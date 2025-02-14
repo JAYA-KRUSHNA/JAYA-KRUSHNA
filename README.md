@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAYA KRUSHNA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"  aling="right" alt="coding" width=1100 " >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&s"  aling="right" alt="coding" width=600 " >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaya-krushna" alt="jaya-krushna" /></a> </p>
 

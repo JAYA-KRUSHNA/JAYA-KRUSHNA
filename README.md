@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 <!-- Dynamic Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Jaya+Krushna+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -125,7 +125,6 @@ const jayaKrushna = {
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYA-KRUSHNA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=JAYA-KRUSHNA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Wakatime Stats"/>
 </p>
 
 <!-- Activity Graph -->
@@ -188,4 +187,3 @@ const jayaKrushna = {
   <br/><br/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
 </div>
-]]>

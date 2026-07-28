@@ -110,7 +110,7 @@ Location:   India 🇮🇳
         <h3 align="center">🚔 SLEVIS</h3>
         <p align="center">
           <a href="https://github.com/JAYA-KRUSHNA/SLEVIS" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=SLEVIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="SLEVIS" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=SLEVIS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="SLEVIS" />
           </a>
         </p>
         <p align="center"><strong>Smart Law Enforcement Vehicle Inspection System</strong><br/>AI-powered traffic enforcement platform with real-time vehicle analysis, automated violation detection, and intelligent reporting dashboard.</p>
@@ -124,7 +124,7 @@ Location:   India 🇮🇳
         <h3 align="center">📅 OptiSchedule</h3>
         <p align="center">
           <a href="https://github.com/JAYA-KRUSHNA/TIME-TABLE-GENERATOR" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=TIME-TABLE-GENERATOR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="OptiSchedule" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=TIME-TABLE-GENERATOR&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="OptiSchedule" />
           </a>
         </p>
         <p align="center"><strong>AI-Powered Academic Timetable Generator</strong><br/>Intelligent scheduling system using constraint-solving algorithms, faculty management, and student portal with a glassmorphic dark UI.</p>
@@ -140,7 +140,7 @@ Location:   India 🇮🇳
         <h3 align="center">🎓 EduTech Platform</h3>
         <p align="center">
           <a href="https://github.com/JAYA-KRUSHNA/edutech" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=edutech&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="EduTech" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=edutech&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="EduTech" />
           </a>
         </p>
         <p align="center"><strong>Full-Stack EdTech Platform</strong><br/>Comprehensive education platform with interactive learning modules, progress tracking, and personalized content delivery for students.</p>
@@ -154,7 +154,7 @@ Location:   India 🇮🇳
         <h3 align="center">🌱 Fertilizer Predictor</h3>
         <p align="center">
           <a href="https://github.com/JAYA-KRUSHNA/fertilizer_prediction" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=fertilizer_prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Fertilizer Prediction" />
+            <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=JAYA-KRUSHNA&repo=fertilizer_prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Fertilizer Prediction" />
           </a>
         </p>
         <p align="center"><strong>ML-Based Fertilizer Recommendation System</strong><br/>Machine learning model that predicts optimal fertilizer recommendations based on soil composition, crop type, and environmental conditions.</p>
@@ -176,12 +176,12 @@ Location:   India 🇮🇳
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAYA-KRUSHNA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=JAYA-KRUSHNA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JAYA-KRUSHNA&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAYA-KRUSHNA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JAYA-KRUSHNA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>

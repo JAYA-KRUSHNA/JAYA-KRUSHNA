@@ -63,8 +63,34 @@ Location:   India 🇮🇳
 <tr>
 <td align="center" width="25%">
 
-🎯 **9.08 CGPA**<br/>
-<sub>B.Tech CSE (DS)</sub>
+👑 **SOCH Leader**<br/>
+<sub>Student Open Conversation Hub</sub>
+
+</td>
+<td align="center" width="25%">
+
+🚀 **Yuga Spark Leader**<br/>
+<sub>Hackathon Club — RGMCET</sub>
+
+</td>
+<td align="center" width="25%">
+
+🏆 **10+ Competitions**<br/>
+<sub>Coding Contests Won</sub>
+
+</td>
+<td align="center" width="25%">
+
+⚡ **24hr Hackathon**<br/>
+<sub>Winner</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+🗃️ **2 SQL Hackathons**<br/>
+<sub>Database Competitions</sub>
 
 </td>
 <td align="center" width="25%">
@@ -89,14 +115,8 @@ Location:   India 🇮🇳
 <tr>
 <td align="center" width="25%">
 
-🏆 **10+ Competitions**<br/>
-<sub>Hackathons & Coding</sub>
-
-</td>
-<td align="center" width="25%">
-
-👥 **Community Leader**<br/>
-<sub>Yuga Spark & SOCH</sub>
+🎯 **9.08 CGPA**<br/>
+<sub>B.Tech CSE (DS)</sub>
 
 </td>
 <td align="center" width="25%">
@@ -109,6 +129,12 @@ Location:   India 🇮🇳
 
 🌟 **Open Source**<br/>
 <sub>Active Contributor</sub>
+
+</td>
+<td align="center" width="25%">
+
+🎓 **RGMCET '27**<br/>
+<sub>CSE — Data Science</sub>
 
 </td>
 </tr>

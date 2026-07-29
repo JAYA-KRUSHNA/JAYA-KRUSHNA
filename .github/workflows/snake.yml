@@ -1,38 +1,44 @@
-# GitHub Action to generate snake animation from contribution graph
+# ═══════════════════════════════════════════════════════════════
+# 🐍 Snake Contribution Animation
+# ═══════════════════════════════════════════════════════════════
+# This workflow generates a snake animation from your GitHub
+# contribution graph and commits it to the 'output' branch.
+#
+# SETUP:
+# 1. Copy this file to: .github/workflows/snake.yml
+#    in your JAYA-KRUSHNA/JAYA-KRUSHNA repository
+# 2. Push to main branch
+# 3. The action will run automatically
+# ═══════════════════════════════════════════════════════════════
+
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *"
-  
-  # Allow manual trigger
-  workflow_dispatch:
-  
-  # Run on push to main branch
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger
   push:
     branches:
       - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate Snake Game
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push snake animation to output branch
+
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

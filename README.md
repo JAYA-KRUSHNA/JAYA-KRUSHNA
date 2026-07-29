@@ -9,8 +9,10 @@
 
 <!-- ─── Typing Animation ─── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=620&height=80&lines=Building+AI-Powered+Full-Stack+Applications+%F0%9F%9A%80;Turning+Complex+Problems+into+Clean+Software+%F0%9F%92%A1;B.Tech+CSE+(Data+Science)+%40+RGMCET+%E2%80%9927+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=620&height=35&lines=Building+AI-Powered+Full-Stack+Applications+%F0%9F%9A%80;Turning+Complex+Problems+into+Clean+Software+%F0%9F%92%A1;B.Tech+CSE+(Data+Science)+%40+RGMCET+%E2%80%9927+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
+
+<br/>
 
 <!-- ─── Social Badges ─── -->
 <p>
